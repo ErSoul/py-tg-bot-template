@@ -1,0 +1,12 @@
+*.sqlite*
+*.db
+.env
+*.log
+.vscode/
+[Ii]nclude/
+[Ll]ib/
+Scripts/
+bin/
+share/
+pyvenv.cfg
+*__pycache__*
